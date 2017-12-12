@@ -1,0 +1,16 @@
+{
+  "name": "RESTful_api_dummydb",
+  "version": "1.0.0",
+  "description": "API REST MVC con MySQL, Express y Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}
